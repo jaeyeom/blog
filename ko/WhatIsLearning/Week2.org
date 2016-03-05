@@ -1,4 +1,4 @@
-#+TITLE: What is Learning 첫째 주
+#+TITLE: What is Learning 둘째 주
 
 바바라 오클리 여사의 [[https://www.coursera.org/learn/learning-how-to-learn][What is Learning]] 강의를 들으면서 2주차 내용으로
 배운 점을 간단히 요약해 보려고 한다.
